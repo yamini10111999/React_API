@@ -1,0 +1,59 @@
+.input{
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+.titlesec{
+    display: flex;
+    align-items: flex-start;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+   
+
+
+
+.list{
+    font-size: 25px;
+    font-weight: 500;
+    list-style-type:none ;
+    display: flex;
+    align-items:flex-start;
+    justify-content:flex-start;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+    
+
+.child{
+    font-size: 24px;
+    font-weight: 700;
+    list-style-type:none ;
+    display: flex;
+    align-items:flex-start;
+    justify-content:flex-start;
+    text-align: center;
+
+}
+.list_2{
+    font-size: 20px;
+    font-weight:lighter;
+    
+    display: flex;
+    align-items:flex-start;
+    justify-content:flex-start;
+    
+}
+.h1tag{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list > span {
+    font-weight: 800;
+}
+.list_2 > span{
+    font-weight:600;
+}
